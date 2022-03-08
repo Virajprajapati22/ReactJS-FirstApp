@@ -1,0 +1,26 @@
+.main {
+    display: flex;
+    background-color: #ffffff;
+    max-width: 100%;
+    overflow-x: hidden;
+    margin-left: 350px;
+    height: 200vh;
+}
+
+.main button{
+    height: 50px;
+}
+
+.btn {
+    padding: 15px;
+    font-size:larger;
+    font-weight: bold;
+    font-family: AvertaStd,-apple-system,BlinkMacSystemFont;
+    background-color: #0887a7;
+    color: #f1e7e7;
+    border: #066e88;
+    border-radius: 9%;
+    margin: 10px;
+}
+
+/* #08bd80 */
